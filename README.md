@@ -1,7 +1,7 @@
 # ADD-CD
 Analysis of Distance Distributions by Contour Dilations
 
-This program was written for the qunatitative analysis of distances between mitochondria and associated endoplasmic reticulum from transmission electron micrographs for the paper *Regulation of the cell stress response by the microprotein PIGBOS* (Qian Chu, et. al., under revision). 
+This program was written for the quantitative analysis of distances between mitochondria and associated endoplasmic reticulum from transmission electron micrographs for the paper *Regulation of the cell stress response by the microprotein PIGBOS* (Qian Chu, et. al., under revision). 
 
 This package is meant to serve two functions: 
 
