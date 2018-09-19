@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT anything (id)>
+<!ATTLIST anything id NMTOKEN #REQUIRED>
+<!ATTLIST anything expanded NMTOKEN #REQUIRED>
+<!ELEMENT id (mnumber)>
+<!ATTLIST id id NMTOKEN #REQUIRED>
+<!ATTLIST id expanded NMTOKEN #REQUIRED>
+<!ELEMENT mnumber (mitochondria)>
+<!ATTLIST mnumber id NMTOKEN #REQUIRED>
+<!ATTLIST mnumber expanded NMTOKEN #REQUIRED>
+<!ELEMENT mitochondria (er, area_list)>
+<!ATTLIST mitochondria id NMTOKEN #REQUIRED>
+<!ATTLIST mitochondria expanded NMTOKEN #REQUIRED>
+<!ELEMENT er (area_list)>
+<!ATTLIST er id NMTOKEN #REQUIRED>
+<!ATTLIST er expanded NMTOKEN #REQUIRED>
+<!ELEMENT area_list EMPTY>
+<!ATTLIST area_list id NMTOKEN #REQUIRED>
+<!ATTLIST area_list oid NMTOKEN #REQUIRED>
+<!ATTLIST area_list expanded NMTOKEN #REQUIRED>
