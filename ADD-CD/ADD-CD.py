@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 18 16:12:21 2018
 
-@author: sweisernovak
+@author: sweisernovak, umanor
 
 Notes: 
     - Analysis is done pixel-wise. All images should all have the same effective resolution before analysis. 
