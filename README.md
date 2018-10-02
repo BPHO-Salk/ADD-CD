@@ -16,9 +16,9 @@ This package is meant to serve two functions:
 
 \* All of these packages come deployed with Anaconda, except for Pillow which can be installed by opening the Anaconda Prompt and installing it using the following line of code: `pip install Pillow`
 
-### Autodidactic testing
+### Testing
 
-Download the GitHub repository to your harddrive. Copy images from `theoreticalTest` to `images`. 
+To see the program in action, download the GitHub repository to your harddrive. Copy images from `theoreticalTest` to `images`. 
 
 Open `ADD-CD.py` in Spyder (or your favorite IDE). Read comments and code and run the script. Output will be displayed in the bottom-right panel and data stored in an Excel file under `output/excel`.
 
@@ -48,6 +48,6 @@ Copy the binarized images from `ADD-CD/trakEM2/processedOutput` to `ADD-CD/image
 
 ### References
 
-[a] (Cardona, Albert, et al. "TrakEM2 software for neural circuit reconstruction." PloS one 7.6 (2012): e38011.
+[a] Cardona, Albert, et al. "TrakEM2 software for neural circuit reconstruction." PloS one 7.6 (2012): e38011.
 
 [b] Thread from ImageJ forum with John Bogovic, including his original code: https://forum.image.sc/t/trakem2-scripting-export-arealists-as-tiffs-with-template-architecture/9461/10
